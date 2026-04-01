@@ -11,14 +11,12 @@
             "id": "17b8020ac011e608",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "python/1. Intro.md",
-                "mode": "source",
-                "source": false
+                "file": "DSA/ADV DSA 2/5. Binary search 1 & 2.pdf"
               },
-              "icon": "lucide-file",
-              "title": "1. Intro"
+              "icon": "lucide-file-text",
+              "title": "5. Binary search 1 & 2"
             }
           },
           {
@@ -211,13 +209,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "17b8020ac011e608",
+  "active": "5b0f1d3407ad05a9",
   "lastOpenFiles": [
+    "DSA/ADV DSA 2/5.1 Binary search 3.pdf",
+    "DSA/ADV DSA 2/Untitled.md",
+    "DSA/ADV DSA 2/5. Binary search 1 & 2.pdf",
+    "DSA/ADV DSA 2/5.2 linked list 1 (1).pdf",
+    "RL/1. Intro.md",
+    "DSA/ADV DSA 2",
+    "python/1. Intro.md",
+    "RL",
     "python/Enviornment/FastAPi.md",
     "python/Enviornment/ASGI and UViCORN.md",
     "python/Enviornment/Virtual Environments.md",
     "python/Enviornment",
-    "python/1. Intro.md",
     "python/Cases.md",
     "Decision.canvas",
     "DSA/Question Bank.md",
@@ -231,7 +236,6 @@
     "Data types.md",
     "Dev tools",
     "Linux/1. Command Line vs. GUI.md",
-    "python",
-    "Linux"
+    "python"
   ]
 }
