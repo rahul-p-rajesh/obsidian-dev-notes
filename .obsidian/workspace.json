@@ -4,47 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "38a52ce50134fa22",
+        "id": "9d67f306bb4e8dc1",
         "type": "tabs",
         "children": [
           {
-            "id": "17b8020ac011e608",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "DSA/ADV DSA 2/5. Binary search 1 & 2.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "5. Binary search 1 & 2"
-            }
-          },
-          {
-            "id": "89140e427daeff32",
+            "id": "419582aa3120d3f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/Enviornment/ASGI and UViCORN.md",
+                "file": "DBMS/2.  SYNTAX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ASGI and UViCORN"
-            }
-          },
-          {
-            "id": "dbeba1dfa1397e0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python/Enviornment/Virtual Environments.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Virtual Environments"
+              "title": "2.  SYNTAX"
             }
           }
         ]
@@ -120,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/Intro.md",
+                "file": "DBMS/2.  SYNTAX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Intro"
+              "title": "Backlinks for 2.  SYNTAX"
             }
           },
           {
@@ -139,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data types.md",
+                "file": "2.  SYNTAX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Data types"
+              "title": "Outgoing links from 2.  SYNTAX"
             }
           },
           {
@@ -195,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -206,36 +180,50 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5b0f1d3407ad05a9",
+  "active": "419582aa3120d3f2",
   "lastOpenFiles": [
-    "DSA/ADV DSA 2/5.1 Binary search 3.pdf",
-    "DSA/ADV DSA 2/Untitled.md",
+    "DBMS/3. Data types.md",
+    "DBMS/2.  SYNTAX.md",
+    "DBMS/Joins.md",
+    "DSA/ADV DSA 3/31. Combitronics/(Combitronics + Prime No )+ (Lab session on Prime Numbers & 2 Pointers).md",
+    "Pasted image 20260430153604.png",
+    "DSA/ADV DSA 3/31. Combitronics/index.canvas",
+    "DSA/Question Bank.md",
+    "DSA/ADV DSA 3/3.1 Combinatorics Basics & Prime Numbers.md",
+    "DSA/ADV DSA 3/31. Combitronics",
+    "DBMS/1. Intro to DB (Algocamp).md",
+    "DBMS/locks.md",
+    "DBMS/transactions.md",
+    "DBMS",
+    "DSA/ADV DSA 2/5.3 Stacks 1.pdf",
+    "DSA/ADV DSA 3",
+    "Untitled.base",
+    "DSA/ADV DSA 2/5.6 Stack Striver - pdf.pdf",
+    "DSA/ADV DSA 2/5.5 Queues.pdf",
+    "DSA/ADV DSA 2/5.4 Stacks 2.pdf",
     "DSA/ADV DSA 2/5. Binary search 1 & 2.pdf",
-    "DSA/ADV DSA 2/5.2 linked list 1 (1).pdf",
+    "DSA/ADV DSA 2/5.1.2  Binary search on Answers.md",
+    "DSA/ADV DSA 2/5.1 Binary search 3 (On Answers).pdf",
+    "Docker.md",
     "RL/1. Intro.md",
-    "DSA/ADV DSA 2",
     "python/1. Intro.md",
-    "RL",
     "python/Enviornment/FastAPi.md",
     "python/Enviornment/ASGI and UViCORN.md",
     "python/Enviornment/Virtual Environments.md",
-    "python/Enviornment",
     "python/Cases.md",
     "Decision.canvas",
-    "DSA/Question Bank.md",
     "Dev tools/Bank PO.md",
     "Welcome.md",
     "DSA/Adv dsa 1/Hashing.md",
-    "DSA/Adv dsa 1",
     "Dev tools/LCP.md",
-    "DSA",
     "Dev tools/Web performance.md",
     "Data types.md",
-    "Dev tools",
-    "Linux/1. Command Line vs. GUI.md",
-    "python"
+    "Linux/1. Command Line vs. GUI.md"
   ]
 }
